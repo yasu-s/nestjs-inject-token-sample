@@ -12,3 +12,24 @@
 ## 使用ライブラリ
 
 * @nestjs/core - 6.7.x
+
+## 動作確認
+
+### 1. サンプルのダウンロード
+
+```bash
+git clone git@github.com:yasu-s/nestjs-inject-token-sample.git
+```
+
+### 2. パッケージインストール
+
+```bash
+cd nestjs-inject-token-sample
+yarn
+```
+
+### 3. サンプルの起動
+
+```bash
+yarn start
+```
